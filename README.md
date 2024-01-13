@@ -9,5 +9,5 @@ Simulation of a communication between archivists and journalists using, among ot
 - Message queues
 
 Authors :
-Mathevon Baptiste
-Yildiz Tolga
+- Mathevon Baptiste
+- Yildiz Tolga
